@@ -2,7 +2,6 @@
 
 This is a simple web application that calculates the square root of a given number.
 
-![Square Root Calculator Screenshot](screenshot.png)
 
 ## Features
 
@@ -13,7 +12,7 @@ This is a simple web application that calculates the square root of a given numb
 
 ## Demo
 
-You can try out the Square Root Calculator by visiting the [live demo](https://your-demo-url.com).
+You can try out the Square Root Calculator by visiting the [live demo](https://squre-root-calculator.netlify.app/).
 
 ## Getting Started
 
